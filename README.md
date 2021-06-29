@@ -44,6 +44,11 @@ Finding beginner-friendly projects
    - [Up for Grabs](https://up-for-grabs.net/#/)
    - [First Timers Only](https://www.firsttimersonly.com/)
    - [Open Source Friday](https://opensourcefriday.com/)
+ 
+ ## Other platforms
+ You can also find projects to contribute to through other platforms: 
+     - [Google Open Source](https://opensource.google/)
+     - [FaceBook Open Source](https://opensource.fb.com/?1)
 
 ## Sample Projects
 | Project             |  Language |   Description                                    | Link                                                          |
