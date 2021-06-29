@@ -2,11 +2,11 @@
 [![OSCA-Nairobi](assets/nbc.png)](https://twitter.com/oscanairobi)
 
 
-A community-generated pool of opensource resources useful for angineers/developers intrested in contributing t opensource. 
+A community-generated pool of opensource resources useful for angineers/developers intrested in contributing to opensource. 
 
 Contributing to open-source projects has proved to be an excellent way to learn as a developer. To test and share knowledge with other coders. With each contribution, you gain experience. 
 
-The OSCA -Nairobi has put together repositories that can help you contribute to opensource. Projects of all languages, platforms and levels of difficulty. 
+The OSCA -Nairobi has put together a repository that can help you contribute to opensource. Projects of all languages, platforms and levels of difficulty. 
 
 ### Why contribute to opensource
 ## social and organizational skills
