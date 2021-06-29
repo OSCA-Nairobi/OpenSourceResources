@@ -2,6 +2,7 @@
 [![OSCA-Nairobi](assets/nbc.png)](https://twitter.com/oscanairobi)
 
 
+A community-generated pool of opensource resources useful for angineers/developers intrested in contributing t opensource. 
 
 Contributing to open-source projects has proved to be an excellent way to learn as a developer. To test and share knowledge with other coders. With each contribution, you gain experience. 
 
@@ -66,4 +67,5 @@ Finding beginner-friendly projects
 |Zulip      | Python     |   Powerful open source group chat. |https://github.com/zulip/zulip/labels/good%20first%20issue|
 
 
+Didn't see a project you would like others to contribute to? [*Check this out on how to submit one*](https://github.com/OSCA-Nairobi/OpenSourceResources/blob/main/submit_project/SUBMIT_PROJECT.md)
 
