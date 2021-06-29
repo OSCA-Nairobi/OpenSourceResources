@@ -4,6 +4,28 @@ Contributing to open-source projects has proved to be an excellent way to learn 
 
 The OSCA -Nairobi has put together repositories that can help you contribute to opensource. Projects of all languages, platforms and levels of difficulty. 
 
+### Why contribute to opensource
+## social and organizational skills
+- Developing a sense of context: understanding how development work is embedded within a project's scope, mission, team of co-developers, and new forms of leadership;
+- Interacting with a project's global and diverse community;
+- Negotiating feature requests, requirements, and implementation choices;
+- Dealing with communication problems, such as absent responses, which are common in volunteer-run projects;
+- Appreciating the software as a product through practices such as issue triaging and release planning; and
+- Receiving, discussing, and addressing code review comments.
+## tech skills
+- Navigating through a project's assets, such as software code, issues, documentation, and pull requests;
+- Evaluating swiftly the product and process quality of software systems or components, as is often required in modern software reuse;
+- Configuring, building, running, and debugging third-party code;
+- Setting up and running software intensive systems with diverse software and hardware requirements. In the course I run, these have included mobile phones, car electronics, application servers, databases, containers, IoT equipment, and embedded devices;
+- Choosing realistic contribution goals. (Initially students tend to wildly overestimate their ability to contribute to a project.) This is a key activity in agile development sprints;
+- Reading third-party code to identify where their additions or fixes need to be made;
+- Modifying a large third-party system by adding a new feature or fixing a bug;
+- Writing tests that demonstrate a contribution is working as expected now and into the future;
+- Working with software systems developed using multiple programming languages and tools; students are often surprised to find out that knowledge of an Integrated Development Environment (IDE) is by no means a passport for contributing to a project;
+- Documenting their work, typically using a declarative markup language, for example Markdown or documentation generator code comments;
+- Following sophisticated configuration management (version control) workflows, such as working on issue branches and rebasing code commits; and
+- Passing pre-commit and continuous integration checks and tests.
+
 This assumes that you are familiar with using version control. That you have a solid understanding of a programming language. If you are new, I suggest this link to help you better grasp git and GitHub. 
 
 Finding beginner-friendly projects
