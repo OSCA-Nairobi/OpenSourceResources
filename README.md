@@ -2,7 +2,7 @@
 [![OSCA-Nairobi](assets/nbc.png)](https://twitter.com/oscanairobi)
 
 
-A community-generated pool of opensource resources useful for angineers/developers intrested in contributing to opensource. 
+A community-generated pool of opensource resources useful for engineers/developers intrested in contributing to opensource. If you are new, join us on [Discord](https://discord.gg/XP3gy6V9) and [Telegram](https://t.me/oscanairobi)
 
 Contributing to open-source projects has proved to be an excellent way to learn as a developer. To test and share knowledge with other coders. With each contribution, you gain experience. 
 
