@@ -1,4 +1,7 @@
 # OpenSourceResources
+[![OSCA-Nairobi](assets/nbc.png)](https://twitter.com/oscanairobi)
+
+
 
 Contributing to open-source projects has proved to be an excellent way to learn as a developer. To test and share knowledge with other coders. With each contribution, you gain experience. 
 
