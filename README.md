@@ -1,4 +1,4 @@
-# OpenSourceResources
+# Open Source Resources
 [![OSCA-Nairobi](assets/nbc.png)](https://twitter.com/oscanairobi)
 
 
@@ -8,15 +8,19 @@ Contributing to open-source projects has proved to be an excellent way to learn 
 
 The OSCA -Nairobi has put together a repository that can help you contribute to opensource. Projects of all languages, platforms and levels of difficulty. 
 
-### Why contribute to opensource
-## social and organizational skills
+**Contents**
+- [Why contribute to Open Source](#why-contribute-to-opensource)
+
+## Why contribute to opensource
+
+### Social and organizational skills
 - Developing a sense of context: understanding how development work is embedded within a project's scope, mission, team of co-developers, and new forms of leadership;
 - Interacting with a project's global and diverse community;
 - Negotiating feature requests, requirements, and implementation choices;
 - Dealing with communication problems, such as absent responses, which are common in volunteer-run projects;
 - Appreciating the software as a product through practices such as issue triaging and release planning; and
 - Receiving, discussing, and addressing code review comments.
-## tech skills
+### Tech skills
 - Navigating through a project's assets, such as software code, issues, documentation, and pull requests;
 - Evaluating swiftly the product and process quality of software systems or components, as is often required in modern software reuse;
 - Configuring, building, running, and debugging third-party code;
@@ -30,6 +34,7 @@ The OSCA -Nairobi has put together a repository that can help you contribute to 
 - Following sophisticated configuration management (version control) workflows, such as working on issue branches and rebasing code commits; and
 - Passing pre-commit and continuous integration checks and tests.
 
+## Pre-requisites
 This assumes that you are familiar with using version control. That you have a solid understanding of a programming language. If you are new, I suggest this link to help you better grasp git and GitHub. 
 
 Finding beginner-friendly projects
@@ -45,10 +50,32 @@ Finding beginner-friendly projects
    - [First Timers Only](https://www.firsttimersonly.com/)
    - [Open Source Friday](https://opensourcefriday.com/)
  
+ ## Direct Search on GitHub
+ 
+ OS maintainers tend to label issues on their GitHub projects. This is easier for reach and for contributers to find out which projects are suitable to contribute to. 
+ - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
+- [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
+- [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
+- [is:issue is:open label:good-first-bug](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
+- [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
+- [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
+
  ## Other platforms
- You can also find projects to contribute to through other platforms: 
-     - [Google Open Source](https://opensource.google/)
-     - [FaceBook Open Source](https://opensource.fb.com/?1)
+ You can also find projects to contribute to through other platforms
+
+   1. *[Google Open Source](https://opensource.google/)*
+   2. *[FaceBook Open Source](https://opensource.fb.com/?1)*
+   3. *[Mozilla](https://github.com/OSCA-Nairobi/OpenSourceResources/edit/main/README.md#why-contribute-to-opensource)* - Has a couple of resources;
+          
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute)              - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
+- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+         
 
 ## Sample Projects
 | Project             |  Language |   Description                                    | Link                                                          |
