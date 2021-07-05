@@ -17,6 +17,10 @@ The OSCA -Nairobi has put together a repository that can help you contribute to 
 - [Platforms to contribute on](#other-platforms)
 - [Sample Projects](#sample-projects)
 
+## Deep-Dive
+- [A quick intro to open source, github and git](https://github.com/OSCA-Nairobi/OpenSourceResources/tree/main/first_timers)
+- [Books. articles and open source initiatives to hep you out](https://github.com/OSCA-Nairobi/OpenSourceResources/blob/main/resources/Resources.md)
+
 ## Why contribute to opensource
 
 ### Social and organizational skills
