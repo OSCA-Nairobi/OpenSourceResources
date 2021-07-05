@@ -3,7 +3,7 @@ Let's address the elephant in the room that is *“What is Open-Source?”*.
 
 First, let's get clear about Open-Source Software.
 
-"Open-source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open-source software."
+"Open-source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change and share the software is modified and unmodified form. Software freedom is essential to enabling community development of open-source software."
 
 -Opensource.org
 
@@ -28,7 +28,7 @@ If the code isn't backup, then it will hard to roll back changes.
 
 To solve such a problem, Git comes to rescue the developers.
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficient.
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 -Git
 
 In Git, version control tracks down every change in any file, which can be easily pushed to master. Since every change is tracked down, it becomes easy to go back to the previous code if there is a bug in the new code; otherwise, there will be a lot of trouble in manually removing code, making it compatible with the previous code again.
@@ -51,3 +51,6 @@ Other people can report an issue.
 Some developers can work on the issue.
 
 And Many More.
+
+
+
