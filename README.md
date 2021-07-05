@@ -8,8 +8,14 @@ Contributing to open-source projects has proved to be an excellent way to learn 
 
 The OSCA -Nairobi has put together a repository that can help you contribute to opensource. Projects of all languages, platforms and levels of difficulty. 
 
-**Contents**
+## **Contents**
 - [Why contribute to Open Source](#why-contribute-to-opensource)
+- [Pre-requisites](#pre-requisites)
+- [Finding beginner-friendly projects](#finding-beginner-friendly-projects)
+- [First-timers](#first-timers)
+- [ Direct Search on GitHub](#direct-search-on-github)
+- [Platforms to contribute on](#other-platforms)
+- [Sample Projects](#sample-projects)
 
 ## Why contribute to opensource
 
@@ -37,7 +43,7 @@ The OSCA -Nairobi has put together a repository that can help you contribute to 
 ## Pre-requisites
 This assumes that you are familiar with using version control. That you have a solid understanding of a programming language. If you are new, I suggest this link to help you better grasp git and GitHub. 
 
-Finding beginner-friendly projects
+## Finding beginner-friendly projects
 - Check for labels: Open source projects have labels that you can use to identify projects.
 - Lists
 - Resources: Listed below are projects that you can contribute to. 
