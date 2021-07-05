@@ -23,7 +23,7 @@ The OSCA -Nairobi has put together a repository that can help you contribute to 
 
 ## Deep-Dive
 - [A quick intro to open source, GitHub and git](https://github.com/OSCA-Nairobi/OpenSourceResources/tree/main/first_timers)
-- [Books. articles and open-source initiatives to hep you out](https://github.com/OSCA-Nairobi/OpenSourceResources/blob/main/resources/Resources.md)
+- [Books. articles and open-source initiatives to help you out](https://github.com/OSCA-Nairobi/OpenSourceResources/blob/main/resources/Resources.md)
 
 ## Why contribute to opensource
 
