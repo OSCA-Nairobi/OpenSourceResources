@@ -79,8 +79,9 @@ This assumes that you are familiar with using version control. That you have a s
  You can also find projects to contribute to through other platforms
 
    1. *[Google Open Source](https://opensource.google/)*
-   2. *[FaceBook Open Source](https://opensource.fb.com/?1)*
-   3. *[Mozilla](https://github.com/OSCA-Nairobi/OpenSourceResources/edit/main/README.md#why-contribute-to-opensource)* - Has a couple of resources;
+   2. *[Twitter](https://twitter.github.io/projects/)*
+   3. *[FaceBook Open Source](https://opensource.fb.com/?1)*
+   4. *[Mozilla](https://github.com/OSCA-Nairobi/OpenSourceResources/edit/main/README.md#why-contribute-to-opensource)* - Has a couple of resources;
           
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute)              - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
