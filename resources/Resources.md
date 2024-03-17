@@ -29,6 +29,7 @@ Let’s Git started in the world of opensource, starting in the opensource playg
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question of what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Level up your skills with GitHub Learning Lab. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
+- ["Contributing to open source as a Technical Writer" by Benny Killua](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20to%20open%20source%20as%20a%20technical%20writer.md) - A guide on how you can contribute to open-source projects as a Technical Writer
 
 ## Useful articles for new Open Source contributors
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
@@ -71,6 +72,7 @@ Let’s Git started in the world of opensource, starting in the opensource playg
 - [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git most visually and interactively.
+- [Learn Git Commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Git.MD) - Learn Git commands and how to use them.
 
 ## Open Sourcebooks
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
